@@ -1,2 +1,2 @@
 # gcp_docker_example
-Gcp dovker example
+Gcp dovker example.
